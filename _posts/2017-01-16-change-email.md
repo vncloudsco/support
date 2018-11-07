@@ -1,5 +1,5 @@
 ---
-date: 2017-11-7
+date: 2018-11-7
 title: Quy định về việc sử dụng email liên hệ
 categories:
   - account-settings
