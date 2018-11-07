@@ -1,12 +1,11 @@
 ---
 date: 2017-11-7
-title: Thay Đổi Email Liên Hệ
+title: Quy định về việc sử dụng email liên hệ
 categories:
   - account-settings
 description: "Update your email address"
 type: Document
 ---
-## Quy định về việc sử dụng email liên hệ 
 
 VNC yêu cầu quý khách cần duy trì một tài khoản email liên hệ duy nhất để quản lý toàn bộ dịch vụ. đối với các trường hợp bất khả kháng chúng tôi có hỗ trợ chuyển đổi email nhưng phải tuân thủ các quy định sau đây.
 
